@@ -1,0 +1,86 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="0">etheme_framework</custom-type>
+        <custom-type translate="1">etheme_portfolio</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+    </custom-types>   
+    <taxonomies>
+        <taxonomy translate="1">categories</taxonomy>
+        <taxonomy translate="1">testimonial-category</taxonomy>
+        <taxonomy translate="1">tag</taxonomy>
+    </taxonomies>      
+    <admin-texts>
+        <key name="option_tree">
+             <key name="product_bage_banner"/>
+             <key name="empty_cart_content"/>
+             <key name="custom_tab_title"/>
+             <key name="right_click_html"/>
+             <key name="pp_content"/>
+             <key name="custom_tab"/>
+             <key name="logo_fixed"/>
+             <key name="logo"/>
+        </key>
+    </admin-texts>
+    <shortcodes>
+        <shortcode>
+            <tag>etheme_product_categories</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>brands</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>twitter_slider</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>testimonials</tag>
+        </shortcode>
+        <shortcode>
+            <tag>et_recent_comments</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>et_recent_posts_widget</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>team_member</tag>
+        </shortcode>
+        <shortcode>
+            <tag>banner</tag>
+        </shortcode>
+        <shortcode>
+            <tag encoding="base64">ptable</tag>
+        </shortcode>
+        <shortcode>
+            <tag>teaser_box</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>etheme_products</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>et_instagram</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>

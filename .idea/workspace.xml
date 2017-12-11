@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44a08328-c0f5-4470-a707-8a3892a84a54" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compare</find>
+      <find>wide-subject</find>
+      <find>compare--on-a</find>
+      <find>-&gt;primaryKey</find>
+      <find>dog</find>
+      <find>location.hash=has</find>
+      <find>input_line</find>
+      <find>graph</find>
+      <find>img_width</find>
+      <find>placeholder</find>
+      <find>$.plo</find>
+      <find>-&gt;getDB</find>
+      <find>WP_INSTALLING</find>
+      <find>vs</find>
+      <find>Orders</find>
+      <find>col</find>
+      <find>debug</find>
+      <find>echo</find>
+      <find>compareCamera</find>
+      <find>search</find>
+      <find>partial_payment_Info</find>
+      <find>function getAll</find>
+      <find>connection_name</find>
+      <find>insert</find>
+      <find>info_name</find>
+      <find>print</find>
+      <find>st-container</find>
+      <find>Balance Greater than Approved</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>-&gt;getDriver</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Code\raw.camera\projects\lensblur</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kbLibs/phpNoSQL/phpNoSQL.php" />
+        <option value="$PROJECT_DIR$/kbLibs/tools/phpliteadmin.php" />
+        <option value="$PROJECT_DIR$/projects/lensblur/jquery.js" />
+        <option value="$PROJECT_DIR$/projects/lensblur/flot.js" />
+        <option value="$PROJECT_DIR$/projects/lensblur/ui.js" />
+        <option value="$PROJECT_DIR$/projects/lensblur/plugins.js" />
+        <option value="$PROJECT_DIR$/projects/lensblur/css/ui.css" />
+        <option value="$PROJECT_DIR$/projects/lensblur/main.js" />
+        <option value="$PROJECT_DIR$/projects/lensblur/index.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpNoSQL/drivers/sqlite.php" />
+        <option value="$PROJECT_DIR$/testing.php" />
+        <option value="$PROJECT_DIR$/kbLibs/rawDb/dxo.php" />
+        <option value="$PROJECT_DIR$/kbLibs/rawDb/index.php" />
+        <option value="$PROJECT_DIR$/kbLibs/rawDb/dxoCameras.php" />
+        <option value="$PROJECT_DIR$/kbLibs/rawDb/dxoLens.php" />
+        <option value="$PROJECT_DIR$/kbLibs/rawDb/resourceCameras.php" />
+        <option value="$PROJECT_DIR$/kbLibs/rawDb/remote.php" />
+        <option value="$PROJECT_DIR$/wp-activate.php" />
+        <option value="$PROJECT_DIR$/.maintenance" />
+        <option value="&lt;f5a09b48-3905-4cf7-be70-253b3b5e5440&gt;/wp-content/themes/rawdb/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/rawdb/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/admin.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/runImport.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/runtest.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/_header.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpNoSQL/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/dxoCameras.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/dxoLens.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/runTest.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpKb/Curl.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpKb/Dom.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/remote.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/errors.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/groups.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/infoTypes.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/default.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/createClass.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/infoValues.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/objectTypes.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/info.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/resourceCameras.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpNoSQL/table.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpNoSQL/cores/drivers.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpNoSQL/drivers/mysqlPdo.php" />
+        <option value="$PROJECT_DIR$/kbLibs/libs.php" />
+        <option value="$PROJECT_DIR$/kbLibs/phpKb/Kb.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/compareCamera.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/rawdb/single-compare.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/core.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/compareCamera/themes/compare_camera.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1786" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpKb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpNoSQL" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpNoSQL" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cores" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phpNoSQL" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="drivers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kbLibs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tools" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="projects" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="compareCamera" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="compareCamera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="compareCamera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rawDb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="compareCamera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rawdb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="raw.camera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raw.camera" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="E:/X/xampp/htdocs/phpNoSQL_Cores" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/raw.camera/wp-content/plugins/compareCamera/admin/runTest.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\raw.camera\wp-content\plugins\compareCamera" />
+      <recent name="E:\raw.camera\wp-content\plugins\compareCamera\admin" />
+      <recent name="E:\Code\raw.camera\kbLibs\tools" />
+      <recent name="E:\Code\raw.camera\kbLibs\phpFastSQL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\raw.camera" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44a08328-c0f5-4470-a707-8a3892a84a54" name="Default" comment="" />
+      <created>1499036785862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499036785862</updated>
+      <workItem from="1499036787069" duration="5898000" />
+      <workItem from="1499129478563" duration="10064000" />
+      <workItem from="1499169765643" duration="8122000" />
+      <workItem from="1510553991212" duration="8193000" />
+      <workItem from="1510625476554" duration="38000" />
+      <workItem from="1510636022770" duration="253000" />
+      <workItem from="1511341869034" duration="5778000" />
+      <workItem from="1511374444172" duration="8000" />
+      <workItem from="1511475121658" duration="7710000" />
+      <workItem from="1511678508649" duration="2439000" />
+      <workItem from="1511784374450" duration="979000" />
+      <workItem from="1511787967610" duration="4868000" />
+      <workItem from="1511851247004" duration="4987000" />
+      <workItem from="1512936290315" duration="1851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61188000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14605543" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23880596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.092175774" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/lensblur/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/lensblur/css/ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16157" lean-forward="false" selection-start-line="4" selection-start-column="16157" selection-end-line="4" selection-end-column="16157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/lensblur/flot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/lensblur/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="42" lean-forward="false" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/lensblur/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/tools/phpliteadmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <marker date="1499158086347" expanded="true" signature="31671:31683" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="39185:39200" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="40126:40138" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="40431:40463" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="41056:41074" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="41099:41114" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="41186:41201" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="41919:41931" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="42075:42092" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="42333:42345" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="42540:42552" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="42988:43000" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="44570:44606" ph="CREATE TABLE... ${$db-&gt;quote($name)}" />
+            <marker date="1499158086347" expanded="true" signature="46694:46706" ph="DELETE FROM " />
+            <marker date="1499158086347" expanded="true" signature="47700:47711" ph="DROP TABLE $... " />
+            <marker date="1499158086347" expanded="true" signature="48341:48400" ph="ALTER TABLE ${$db-&gt;quote_id($_POST['oldname'])}... " />
+            <marker date="1499158086347" expanded="true" signature="50465:50477" ph="INSERT INTO ${$db-&gt;quote_id($target_table)}... " />
+            <marker date="1499158086347" expanded="true" signature="50917:50932" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="51282:51387" ph="DELETE FROM " />
+            <marker date="1499158086347" expanded="true" signature="53525:53537" ph="INSERT INTO ${$db-&gt;quote_id($target_table)}... " />
+            <marker date="1499158086347" expanded="true" signature="54716:54731" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="55191:55240" ph="ALTER TABLE ${$db-&gt;quote_id($target_table)}... " />
+            <marker date="1499158086347" expanded="true" signature="57225:57275" ph="ALTER TABLE ${$db-&gt;quote_id($target_table)}... " />
+            <marker date="1499158086347" expanded="true" signature="57774:57836" ph="ALTER TABLE ${$db-&gt;quote_id($target_table)}... " />
+            <marker date="1499158086347" expanded="true" signature="58299:58423" ph="ALTER TABLE ${$db-&gt;quote_id($target_table)}... " />
+            <marker date="1499158086347" expanded="true" signature="61750:61787" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="62331:62343" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="62621:62705" ph="SELECT type,... sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="63367:63379" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="63601:63613" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="64011:64029" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="64299:64323" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="68278:68289" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="69550:69561" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="69836:69895" ph="SELECT name sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="73138:73155" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="75974:75992" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="76424:76478" ph="SELECT * FRO... ${$db-&gt;quote_id($target_table)}" />
+            <marker date="1499158086347" expanded="true" signature="77118:77140" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="77171:77195" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="77324:77365" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="77447:77458" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="77884:77895" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="79840:79883" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="80359:80387" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81210:81252" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81345:81356" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81513:81524" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81556:81567" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81682:81694" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81721:81732" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81764:81775" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81887:81899" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81926:81937" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="81969:81980" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="82090:82102" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="82129:82140" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="82419:82430" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="82904:82919" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="83590:83633" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84052:84080" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84230:84272" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84457:84468" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84625:84636" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84662:84673" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84788:84800" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84827:84838" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84864:84875" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="84987:84999" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="85026:85037" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="85063:85074" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="85184:85196" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="85223:85234" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="85408:85419" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="88587:88601" ph="SELECT * FRO... ${$db-&gt;quote_id($target_table)}" />
+            <marker date="1499158086347" expanded="true" signature="89164:89179" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="89743:89760" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="94173:94177" ph="&gt;" />
+            <marker date="1499158086347" expanded="true" signature="94223:94227" ph="&gt;" />
+            <marker date="1499158086347" expanded="true" signature="94273:94277" ph="&lt;" />
+            <marker date="1499158086347" expanded="true" signature="94323:94327" ph="&lt;" />
+            <marker date="1499158086347" expanded="true" signature="95581:95598" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="97439:97486" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="98021:98032" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="98665:98676" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="99340:99370" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="99848:99860" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="100323:100334" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="101353:101367" ph="SELECT * FRO... ${$db-&gt;quote_id($target_table)}" />
+            <marker date="1499158086347" expanded="true" signature="102340:102355" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="103303:103320" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="103552:103604" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="103614:103666" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="104395:104401" ph="↑" />
+            <marker date="1499158086347" expanded="true" signature="104414:104420" ph="↓" />
+            <marker date="1499158086347" expanded="true" signature="111878:111909" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="116496:116502" ph=" " />
+            <marker date="1499158086347" expanded="true" signature="118096:118113" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="119792:119845" ph="SELECT * FRO... ${$db-&gt;quote_id($target_table)}" />
+            <marker date="1499158086347" expanded="true" signature="122158:122175" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="127147:127158" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="127582:127597" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="130020:130125" ph="SELECT * FRO... sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="139915:139932" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="142824:142850" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="147372:147389" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="147590:147607" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="147784:147801" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="149357:149471" ph="SELECT type,... sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="150528:150534" ph="↑" />
+            <marker date="1499158086347" expanded="true" signature="150547:150553" ph="↓" />
+            <marker date="1499158086347" expanded="true" signature="151076:151082" ph="↑" />
+            <marker date="1499158086347" expanded="true" signature="155608:155627" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="155977:155989" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="156068:156079" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="156503:156515" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="159154:159172" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="160179:160204" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="161220:161263" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="161364:161376" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="161409:161487" ph="SELECT name sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="162154:162182" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="162997:163039" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163259:163271" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163297:163308" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163333:163344" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163458:163470" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163496:163507" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163532:163543" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163654:163666" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163692:163703" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163728:163739" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163848:163860" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="163886:163897" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="164165:164176" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="164612:164627" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="165203:165246" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="165625:165653" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="165799:165841" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="165933:165944" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166047:166125" ph="SELECT name sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="166440:166451" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166476:166487" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166604:166616" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166642:166653" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166678:166689" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166803:166815" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166841:166852" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166877:166888" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="166999:167011" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="167037:167048" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="167073:167084" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="167199:167211" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="167237:167248" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="167418:167429" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="169599:169614" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="169686:169701" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="173807:173819" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="176465:176477" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="177696:177708" ph="..." />
+            <marker date="1499158086347" expanded="true" signature="181938:181986" ph="SELECT `type... sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="183204:183300" ph="ALTER TABLE QUERY... " />
+            <marker date="1499158086347" expanded="true" signature="190410:190467" ph="SELECT sql,n... " />
+            <marker date="1499158086347" expanded="true" signature="191688:191728" ph="CREATE TABLE... ${$this-&gt;quote($tmpname)}" />
+            <marker date="1499158086347" expanded="true" signature="193211:193298" ph="INSERT INTO ${$this-&gt;quote_id($tmpname)}... " />
+            <marker date="1499158086347" expanded="true" signature="193270:193298" ph="SELECT ${$ol... ${$this-&gt;quote_id($table)}" />
+            <marker date="1499158086347" expanded="true" signature="193345:193356" ph="DROP TABLE $... " />
+            <marker date="1499158086347" expanded="true" signature="207131:207142" ph="DROP TABLE $... " />
+            <marker date="1499158086347" expanded="true" signature="207199:207241" ph="CREATE TABLE... ${$this-&gt;quote($table_new)}" />
+            <marker date="1499158086347" expanded="true" signature="211862:211917" ph="SELECT ROWID... ${$this-&gt;quote_id($table)}" />
+            <marker date="1499158086347" expanded="true" signature="213246:213267" ph="SELECT Count... ${$this-&gt;quote_id($table)}" />
+            <marker date="1499158086347" expanded="true" signature="216233:216313" ph="SELECT * FRO... sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="217044:217058" ph="SELECT * FRO... ${$this-&gt;quote_id($result[$i]['tbl_name'])}" />
+            <marker date="1499158086347" expanded="true" signature="218453:218613" ph="SELECT * FRO... sqlite_master" />
+            <marker date="1499158086347" expanded="true" signature="219828:219842" ph="SELECT * FRO... ${$this-&gt;quote_id($result[$i]['tbl_name'])}" />
+            <marker date="1499158086347" expanded="true" signature="220796:220918" ph="INSERT INTO ${$this-&gt;quote_id($result[$i]['tbl_name'])}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-activate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.maintenance">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-comments-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/rawdb/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/drivers/sqlite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/_bottom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/phpNoSQL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpKb/simple_dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpKb/Dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/runImport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/errors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/infoValues.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/objectTypes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/createClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <element signature="e#25#38#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/admin/runTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/infoTypes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/groups.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/dxoLens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/dxoCameras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/remote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/rawDb/resourceCameras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="89" column="53" lean-forward="false" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+          <folding>
+            <element signature="e#24#34#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/cores/drivers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="34" lean-forward="false" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/_logs/2017-11-27.log" />
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/drivers/mysqlPdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="24" lean-forward="false" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+          <folding>
+            <marker date="1511792214874" expanded="true" signature="1869:1883" ph="SELECT * FRO... $" />
+            <marker date="1511792214874" expanded="true" signature="2788:2844" ph="INSERT INTO `${{$tableName}}`... " />
+            <marker date="1511792214874" expanded="true" signature="4713:4742" ph="UPDATE ${{$t... " />
+            <marker date="1511792214874" expanded="true" signature="5715:5727" ph="DELETE FROM " />
+            <marker date="1511792214874" expanded="true" signature="6521:6576" ph="SELECT COUNT... " />
+            <marker date="1511792214874" expanded="true" signature="7242:7306" ph="ALTER TABLE $... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpNoSQL/table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="133" column="20" lean-forward="false" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/themes/compare_resource.php" />
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpKb/Kb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3519">
+          <caret line="207" column="48" lean-forward="false" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="48" />
+          <folding>
+            <marker date="1511854541110" expanded="true" signature="1505:1561" ph="..." />
+            <marker date="1511854541110" expanded="true" signature="2115:2141" ph="..." />
+            <marker date="1511854541110" expanded="true" signature="2864:2892" ph="SELECT * FRO... $" />
+            <marker date="1511854541110" expanded="true" signature="4866:4929" ph="..." />
+            <marker date="1511854541110" expanded="true" signature="5140:5182" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="230" column="30" lean-forward="false" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="30" />
+          <folding>
+            <marker date="1512939988211" expanded="true" signature="22484:22603" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="22551:22603" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="40507:42089" ph=" Displays or retrieves a list of pages with an optional home link. ..." />
+            <marker date="1512939988211" expanded="true" signature="42134:45011" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="42154:42467" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="42592:42689" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="42738:42766" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="42774:42798" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="42805:42979" ph=" Filters the arguments used to generate a page-based menu. ..." />
+            <marker date="1512939988211" expanded="true" signature="43136:43821" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="43631:43818" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="43675:43713" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="43721:43757" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="44079:44103" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="44121:44402" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="44281:44346" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="44456:44516" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="44559:44625" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="44700:44894" ph=" Filters the HTML output of a page-based menu. ..." />
+            <marker date="1512939988211" expanded="true" signature="45040:45272" ph=" Retrieve HTML list content for page list. ..." />
+            <marker date="1512939988211" expanded="true" signature="45337:45670" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="45466:45555" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="45676:45913" ph=" Retrieve HTML dropdown (select) content for page list. ..." />
+            <marker date="1512939988211" expanded="true" signature="45952:46196" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="46224:46609" ph=" Display an attachment page link using an image or icon. ..." />
+            <marker date="1512939988211" expanded="true" signature="46713:46935" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="46941:47905" ph=" Retrieve an attachment page link using an image or icon, if possible. ..." />
+            <marker date="1512939988211" expanded="true" signature="48035:49427" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48179:48218" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48241:48287" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48305:48329" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48368:48445" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48453:48474" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48512:48549" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48587:48680" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="48686:49283" ph=" Filters a retrieved attachment page link. ..." />
+            <marker date="1512939988211" expanded="true" signature="49433:49553" ph=" Wrap attachment in paragraph tag before content. ..." />
+            <marker date="1512939988211" expanded="true" signature="49595:50764" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="49750:50159" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="49924:50013" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="50046:50120" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="50208:50282" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="50290:50498" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="50505:50687" ph=" Filters the attachment markup to be prepended to the post content. ..." />
+            <marker date="1512939988211" expanded="true" signature="50785:51027" ph=" Retrieve protected post password form content. ..." />
+            <marker date="1512939988211" expanded="true" signature="51075:52087" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="51679:52029" ph=" Filters the HTML output for the protected post password form. ..." />
+            <marker date="1512939988211" expanded="true" signature="52093:52669" ph=" Whether currently in a page template. ..." />
+            <marker date="1512939988211" expanded="true" signature="52717:53185" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="52743:52761" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="52977:53125" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="53103:53122" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="53191:53579" ph=" Get the specific template name for a given post. ..." />
+            <marker date="1512939988211" expanded="true" signature="53631:53852" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="53678:53696" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="53815:53830" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="53858:54201" ph=" Retrieve formatted date timestamp of a revision (linked to that revisions's page). ..." />
+            <marker date="1512939988211" expanded="true" signature="54264:55118" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="55124:55483" ph=" Retrieve formatted date timestamp of a revision (linked to that revisions's page). ..." />
+            <marker date="1512939988211" expanded="true" signature="55555:57412" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="56232:56490" ph="..." />
+            <marker date="1512939988211" expanded="true" signature="56926:57308" ph=" Filters the formatted author and date for a revision. ..." />
+            <marker date="1512939988211" expanded="true" signature="57418:57753" ph=" Display list of a post's revisions. ..." />
+            <marker date="1512939988211" expanded="true" signature="57976:58088" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="386" column="16" lean-forward="false" selection-start-line="386" selection-start-column="16" selection-end-line="386" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/compareCamera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/compareCamera/themes/compare_camera.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/libs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/rawdb/single-compare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/phpKb/Curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbLibs/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
